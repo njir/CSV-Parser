@@ -1,0 +1,4 @@
+.cov
+Debug/
+Release/
+ipch/
